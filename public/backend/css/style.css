@@ -1,0 +1,14 @@
+#menu{
+	list-style-type: none;
+	font-size: 18px;
+	float: right;
+	margin: 10px;
+}
+
+#menu li{
+	display: inline;
+
+}
+.contain{
+	width: 100%;
+}
